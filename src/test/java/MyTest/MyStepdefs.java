@@ -199,4 +199,7 @@ public class MyStepdefs {
     }
 
 
+    @Given("rule given {int}")
+    public void ruleGiven(int arg0) {
+    }
 }
