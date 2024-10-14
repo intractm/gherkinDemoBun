@@ -4,6 +4,12 @@ Feature: Number 2
 		When one
 		Then one
 
+	Rule first rule:
+		background:
+			Given a global administrator named "Greg"
+			* a blog named "Greg's anti-tax rants"
+			* a customer named "Wilson"
+
 	Scenario: Approve2222
 		Given numberEven
 		When three
