@@ -23,4 +23,7 @@ Feature: Number 2
 		| 1      | 2      |
 		| 3      | 6      |
 
-
+	Scenario: Approve3333
+		Given numberEven
+		When three
+		Then three
