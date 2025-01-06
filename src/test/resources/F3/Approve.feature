@@ -1,10 +1,5 @@
 Feature: Number 2
 
-	Scenario: Approve3333
-		Given numberEven
-		When three
-		Then three
-
 	Scenario: numberStatus
 		Given numberOdd
 		When one
