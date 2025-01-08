@@ -8,7 +8,7 @@ Feature: Number 2
 		When three
 		Then three
 
-@TSCID2498003
+@TSCID2498002
 	Scenario: numberStatus
 		Given numberOdd
 		When one
