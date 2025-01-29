@@ -1,5 +1,6 @@
 Feature: Number 2
 
+Rule: R1
 	Scenario: Approve3333
 		Given numberEven
 		When three
