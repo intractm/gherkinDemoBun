@@ -4,7 +4,7 @@ Rule: R1
 	Scenario: Approve3333
 		Given numberEven
 		When three
-		Then ten
+		Then qqq
 
 	Scenario: numberStatus
 		Given numberOdd
