@@ -3,7 +3,7 @@ Feature: Number 2
 	Scenario: Approve3333
 		Given numberEven
 		When three
-		Then ten
+		Then three
 
 	Scenario: numberStatus
 		Given numberOdd
